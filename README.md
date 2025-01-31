@@ -1,6 +1,6 @@
 # Lab Week 2 Submission
-My submission for Computer Science Course Name, Section 01, Lab Week 2
+My submission for Computer Science CPSC131, Section 08, Lab Week 2
 # My Information
-* Name: Gibsen Montgomery Gibson
-* CWID: 123456789
-* Email: thegibz@example.com
+* Name: Hanz Eduardo De Dios
+* CWID: 865792139
+* Email: hanzeduardo@csu.fullerton.edu
